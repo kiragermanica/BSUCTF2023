@@ -1,0 +1,9 @@
+factorization
+10
+
+n = 2174096211032823084932239036566496093206280423
+n = p * q
+p < q
+
+flag format bsuctf{p}
+
