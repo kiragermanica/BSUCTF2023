@@ -1,0 +1,13 @@
+find m
+20
+
+'bsuctf{' + sha256(m) + '}'
+
+https://emn178.github.io/online-tools/sha256.html
+
+n = 111952518932119
+
+c = 76158259501553
+
+e = 0x10001
+
