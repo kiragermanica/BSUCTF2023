@@ -1,0 +1,9 @@
+xorme
+20
+
+xor'ed_flag = SAFWAPL^UPUlRZDZYMnQRZj^RTIL
+
+bsuctf{?}
+
+hint 1:
+В данном случае ^ является не операцией ксор, а символом проксоренной строки.
