@@ -1,0 +1,6 @@
+unrandom xor
+40
+
+bsuctf{?}
+
+attachments: data.enc, cypher.py
